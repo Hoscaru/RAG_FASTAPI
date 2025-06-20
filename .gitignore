@@ -1,0 +1,4 @@
+.env
+rag-venv
+__pycache__/
+docs
